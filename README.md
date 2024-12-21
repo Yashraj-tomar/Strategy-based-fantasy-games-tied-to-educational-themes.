@@ -10,6 +10,7 @@ The game is implemented using smart contracts on the Ethereum blockchain, ensuri
 
 ## Contract Address
 0xe1a45450BE2DB022cCd222AA0c31C9Cf0c772350
+![image](https://github.com/user-attachments/assets/7527eeed-da93-45c7-9c37-d282c4a7d891)
 
 ## Project Vision
 The vision of the project is to promote learning through interactive and competitive gameplay. By using a decentralized application, players can immerse themselves in educational themes, making learning enjoyable. The game encourages players to collaborate with others, strategize, and enhance their learning in subjects ranging from history to science.
